@@ -11,7 +11,7 @@ const hanldeMenu=()=>{
   return (
     <div className={styles.nav}>
          <div className={styles.logo}>
-             <img src="public/assets/logo/logo1.png" alt="" />
+             <img src="/assets/logo/logo1.png" alt="" />
          </div>
          <div className={styles.navlinks}>
             <ul>

@@ -50,7 +50,7 @@ const Section1 = () => {
 
     </div>
     <div className={styles.imageSection}>
-        <img src="src/assets/Section1/info3.PNG" alt="" />
+        <img src="/assets/Section1/info3.PNG" alt="" />
     </div>
    </div>
    
