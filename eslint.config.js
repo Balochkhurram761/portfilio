@@ -27,6 +27,10 @@ export default tseslint.config(
       ],
     },
     plugins: [react()],
+    build: {
+      outDir: 'dist', // Ensure Vite is building to 'dist' folder
+    },
+  
 
   },
 )
