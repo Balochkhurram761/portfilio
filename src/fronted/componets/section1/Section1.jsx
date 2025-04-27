@@ -1,6 +1,5 @@
 import React, { use, useEffect, useState } from 'react'
-import styles from '../../styles/section1/section1.module.css'
-import { FaFacebookF } from "react-icons/fa6";
+import styles from '../../styles/section1/Section1.module.css'
 import { FaFacebook } from "react-icons/fa6";
 import { FaGithub } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
