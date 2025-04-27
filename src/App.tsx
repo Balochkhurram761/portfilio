@@ -1,9 +1,8 @@
-import React from 'react'
-import Home from "../../portfilio/src/fronted/pages/home/Home.jsx"
+import Home from "../src/fronted/pages/home/Home"  // Keep this
 const App = () => {
   return (
     <>
-    <Home/>
+      <Home />
     </>
   )
 }
