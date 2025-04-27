@@ -2,29 +2,29 @@
 
 const dataexperience=([
     {
-    image:"src/assets/Section3/react.png",
+    image:"/assets/Section3/react.png",
     title:"react"
 },
 {
-    image:"src/assets/Section3/nextjs.png",
+    image:"/assets/Section3/nextjs.png",
     title:"NextJs"
 }, {
-    image:"src/assets/Section3/tailwind.png",
+    image:"/assets/Section3/tailwind.png",
     title:"Tailwind"
 }, {
-    image:"src/assets/Section3/MU.svg",
+    image:"/assets/Section3/MU.svg",
     title:"Material UI"
 }, {
-    image:"src/assets/Section3/mongoDB.jpg",
+    image:"/assets/Section3/mongoDB.jpg",
     title:"MongoDB"
 }, {
-    image:"src/assets/Section3/js.png",
+    image:"/assets/Section3/js.png",
     title:"JS"
 }, {
-    image:"src/assets/Section3/figma.png",
+    image:"/assets/Section3/figma.png",
     title:"Figma"
 }, {
-    image:"src/assets/Section3/bootstrap.jpg",
+    image:"/assets/Section3/bootstrap.jpg",
     title:"Bootstrap"
 },
 ]

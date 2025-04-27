@@ -6,7 +6,7 @@ const Section2 = () => {
     <div className={styles.container}>
    <div id='section2' className={` animate__animated  animate__backInLeft ${styles.section2}`}>
     <div className={styles.img}>
-        <img src="src/assets/Section2/khurram.jpeg" alt=""  />
+        <img src="/assets/Section2/khurram.jpeg" alt=""  />
     </div>
     <div className={styles.info}>
      <h1>Who is <span> Khurram Ali <br /> khan</span></h1>
