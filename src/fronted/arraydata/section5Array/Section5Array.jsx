@@ -23,6 +23,11 @@ const portfolio = ([
         link: "https://pizza-pulse-phi.vercel.app/",
         image: "/assets/Section5/pizzapulse.PNG",
         title: "Pizza Pulsa- Design For Food Website",
+    },
+     {
+        link: "https://travel-pakistan-28do.vercel.app/",
+        image: "/assets/Section5/pakistanTravel.PNG",
+        title: "Travel Pakistan- Design For Tourism Website",
     }
 
 
