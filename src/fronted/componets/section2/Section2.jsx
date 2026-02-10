@@ -35,7 +35,7 @@ const Section2 = () => {
             business, where every project is an exploration of what can be
             achieved when creativity and technology unite.
           </p>
-          <a href="/cv/khuramCoder.pdf" download>
+          <a href="/cv/khurramalikhan cv.pdf" download>
             {" "}
             <button>Download CV</button>
           </a>
