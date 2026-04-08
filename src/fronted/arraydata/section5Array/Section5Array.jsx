@@ -1,36 +1,34 @@
-const portfolio = ([
-    {
-        link: "https://farmhouse1.vercel.app/",
-        image: "/assets/Section5/swissHeven Farmhouse.PNG",
-        title: "Swiss Haven FarmHouse - Design for Farmhouse Website"
-    },
-    {
-        link: "https://farmhouse2.vercel.app/",
-        image: "/assets/Section5/alnafey1.PNG",
-        title: "AL Nafey Group - Design For Real Estate Website"
-    },
-    {
-        link: "https://farmhouse-sigma.vercel.app/",
-        image: "/assets/Section5/Quranweb.PNG",
-        title: "QuranArt - Design For learning Website"
-    },
-    {
-        link: "https://farmhouse-vt2e.vercel.app/sale",
-        image: "/assets/Section5/web.PNG",
-        title: "Khaddi- Design For E commerce Website"
-    },
-    {
-        link: "https://pizza-pulse-phi.vercel.app/",
-        image: "/assets/Section5/pizzapulse.PNG",
-        title: "Pizza Pulsa- Design For Food Website",
-    },
-     {
-        link: "https://travel-pakistan-28do.vercel.app/",
-        image: "/assets/Section5/pakistanTravel.PNG",
-        title: "Travel Pakistan- Design For Tourism Website",
-    }
-
-
-])
+const portfolio = [
+  {
+    link: "https://swiss-haven-farmhouses.vercel.app/",
+    image: "/assets/Section5/swissHeven Farmhouse.PNG",
+    title: "Swiss Haven FarmHouse - Design for Farmhouse Website",
+  },
+  {
+    link: "https://farmhouse2.vercel.app/",
+    image: "/assets/Section5/alnafey1.PNG",
+    title: "AL Nafey Group - Design For Real Estate Website",
+  },
+  {
+    link: "https://farmhouse-sigma.vercel.app/",
+    image: "/assets/Section5/Quranweb.PNG",
+    title: "QuranArt - Design For learning Website",
+  },
+  {
+    link: "https://farmhouse-vt2e.vercel.app/sale",
+    image: "/assets/Section5/web.PNG",
+    title: "Khaddi- Design For E commerce Website",
+  },
+  {
+    link: "https://pizza-pulse-phi.vercel.app/",
+    image: "/assets/Section5/pizzapulse.PNG",
+    title: "Pizza Pulsa- Design For Food Website",
+  },
+  {
+    link: "https://travel-pakistan-28do.vercel.app/",
+    image: "/assets/Section5/pakistanTravel.PNG",
+    title: "Travel Pakistan- Design For Tourism Website",
+  },
+];
 
 export default portfolio;
